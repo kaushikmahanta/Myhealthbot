@@ -1,0 +1,8 @@
+{
+    "id": "/subscriptions/f0c983e8-26e8-4d0f-a65b-af58c517ca23/resourceGroups/MyHealthBot",
+    "name": "MyHealthBot",
+    "location": "eastus",
+    "properties": {
+        "provisioningState": "Succeeded"
+    }
+}
